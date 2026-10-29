@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+  color: #00a9ff;
+  font-size: 2rem;
+}
+button {
+ background-color: #00a9ff;  
+  color: white;
+    font-size: 2rem;
+}
+select {
+   background-color: #00a9ff;  
+  color: white;
+    font-size: 2rem;
+}
